@@ -47,7 +47,20 @@
 |2021|SKT|2021 SKT AI 커리큘럼|교육|완료|
 |2021.12~|국민대학교|컴퓨터공학과 인공지능연구실|학부연구생|졸업|
 |2019.03~|국민대학교|AI빅데이터융합경영학과|제1전공|졸업|
-|2019.03~|국민대학교|데이터사이언스융합전공|제2전공|졸업|
+|2019.03~|국민대학교|데이터사이언스융합전공|제2전공|졸업|   
+   
+   
+### 🖥️ Research Area
+|Research Area|Application Field|
+|:-:|-|
+|Anomaly Detection|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 & 금융산업 등|
+|Open-Set Recognition|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 등|
+|Semantic Segmentation|제조산업 & 자율주행 & 의료산업 등|
+|Object Detection|제조산업 & 자율주행 & 보안산업 & 의료산업 등|
+|Self-Supervised Learning|Difficult to labeling situation, etc|
+|Zero-Shot & Few-Shot Task|Difficult to labeling situation, etc|
+|Computer Vision with Deep Learning|All over our lives|
+
 
 ### 🏆 Competition & Project
 |연도|분류|프로젝트|결과|
@@ -66,17 +79,6 @@
 |2021|음성|음성 감정 분석을 통한 우울증 예측||
 |2021|머신러닝|백화점 데이터 기반 고객 성별 예측||
 |2020|머신러닝|L-point 고객 구매 데이터 분석을 통한 성별 및 연령대 별 맞춤 프로모션 기획||
-
-### 🖥️ Research Area
-|Research Area|Application Field|
-|:-:|-|
-|Anomaly Detection|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 & 금융산업 등|
-|Open-Set Recognition|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 등|
-|Semantic Segmentation|제조산업 & 자율주행 & 의료산업 등|
-|Object Detection|제조산업 & 자율주행 & 보안산업 & 의료산업 등|
-|Self-Supervised Learning|Difficult to labeling situation, etc|
-|Zero-Shot & Few-Shot Task|Difficult to labeling situation, etc|
-|Computer Vision with Deep Learning|All over our lives|
 
 
 
