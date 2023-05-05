@@ -67,4 +67,29 @@
 |2021|머신러닝|백화점 데이터 기반 고객 성별 예측||
 |2020|머신러닝|L- point 고객 구매 데이터 분석을 통한 성별 및 연령대 별 맞춤 프로모션 기획||
 
+<!-- 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIYUNHYEOK&layout=compact&theme=dark&langs_count=5)](https://github.com/JIYUNHYEOK/github-readme-stats)
+
+<br>
+
+![JIYUNHYEOK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JIYUNHYEOK&show_icons=true&theme=dark)
+
+<br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sy00n)
+
+<br>
+
+[![Seoyoon's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sy00n&theme=rogue)](https://github.com/JIYUNHYEOK/github-readme-activity-graph)
+
+<br>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIYUNHYEOK&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
+
+<br> -->
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer&text=THANK%20YOU&fontSize=60&animation=fadeIn)
