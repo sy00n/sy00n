@@ -7,7 +7,7 @@
 
 [![Seoyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy00n&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💁‍♀️ Contact
+### 📞 Contact
 [![Mail](https://img.shields.io/badge/tjdbs70002@gmail.com-dd2a7b?style=flat-square&logo=Gmail&logoColor=white)](tjdbs70002@gmail.com)
 [![Mail](https://img.shields.io/badge/tjdbs70002@yonsei.ac.kr-e10915?style=flat-square&logo=Gmail&logoColor=white)](tjdbs70002@yonsei.ac.kr)
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%84%9C%EC%9C%A4-%EC%9E%A5-041a49242/)
