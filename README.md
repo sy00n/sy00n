@@ -1,4 +1,3 @@
-# SeoYoon
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=%20SeoYoon%20's%20GitHub&fontSize=60&animation=fadeIn)
 
  
