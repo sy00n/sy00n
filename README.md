@@ -66,14 +66,14 @@
 ### 🏆 Competition & Project
 |연도|분류|프로젝트|결과|
 |-|:-:|-|-|
-|2023|Sensor|LG 에너지솔루션 Anomaly Detection 및 Domain Adaptation||
+|2023|센서데이터|LG 에너지솔루션 Anomaly Detection 및 Domain Adaptation||
 |2022|비디오|DREAM: Debiased Representation based Evidential open set Action recognition with Multi-modality|<a href="https://github.com/sy00n/DREAMCAP" target="_blank">링크</a>|
 |2022|이미지 생성|퍼스널컬러 분류 및 Makeup style transfer||
 |2022|추천시스템|Auxiliary Information를 활용한 ViT(Vision Transformer)기반 추천시스템|<a href="https://github.com/rnjsdb72/ViT-with-ONCF-Framework" target="_blank">링크</a>|
 |2022|분산컴퓨팅|위키백과의 하이퍼링크 네트워크 그래프 데이터셋에서 중복된 간선과 loop를 모두 제거하는 기능을 MapReduce로 구현||
 |2022|멀티 모달|AI Spark Challenge, 감정 분석을 통한 상담 보조 서비스 기획 및 개발|본선 진출|
 |2021|자연어처리|Dacon 뉴스 토픽 분류 AI 경진대회|9위|
-|2021|Time-Series|빅콘테스트 데이터분석분야 퓨처스리그 ECO제주부문, 음식물 쓰레기양 예측을 통한 배출량 감소 방안 도출 대회||
+|2021|시열분석|빅콘테스트 데이터분석분야 퓨처스리그 ECO제주부문, 음식물 쓰레기양 예측을 통한 배출량 감소 방안 도출 대회||
 |2021|자연어처리|무신사 쇼핑몰 고객 리뷰 데이터 분석||
 |2021|공간데이터분석(QGIS)|코로나 장기화로 서울의 스타벅스 매장을 20% 줄여야 한다면 어느 지역을 왜?||
 |2021|공간데이터분석(QGIS)|성신여대 상권에서 10년을 생존한 음식점 Mapping과 특징 분석||
