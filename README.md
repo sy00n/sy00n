@@ -7,7 +7,7 @@
 
 [![Seoyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy00n&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🙍🏻‍♂️ Profile
+### 💁‍♀️ Profile
 [![Mail](https://img.shields.io/badge/tjdbs70002@gmail.com-dd2a7b?style=flat-square&logo=Gmail&logoColor=white)](tjdbs70002@gmail.com)
 [![Mail](https://img.shields.io/badge/tjdbs70002@yonsei.ac.kr-e10915?style=flat-square&logo=Gmail&logoColor=white)](tjdbs70002@yonsei.ac.kr)
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%84%9C%EC%9C%A4-%EC%9E%A5-041a49242/)
@@ -66,6 +66,20 @@
 |2021|음성|음성 감정 분석을 통한 우울증 예측||
 |2021|머신러닝|백화점 데이터 기반 고객 성별 예측||
 |2020|머신러닝|L-point 고객 구매 데이터 분석을 통한 성별 및 연령대 별 맞춤 프로모션 기획||
+
+### 🖥️ Research Area
+|Research Area|Application Field|
+|-|-|
+|Anomaly Detection|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 & 금융산업 등|
+|Open-Set Recognition|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 등|
+|Semantic Segmentation|제조산업 & 자율주행 & 의료산업 등|
+|Object Detection|제조산업 & 자율주행 & 보안산업 & 의료산업 등|
+|Self-Supervised Learning|Difficult to labeling situation, etc|
+|Zero-Shot & Few-Shot Task|Difficult to labeling situation, etc|
+|Computer Vision with Deep Learning|All over our lives|
+
+
+
 
 
 
