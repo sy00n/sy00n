@@ -69,7 +69,7 @@
 
 ### 🖥️ Research Area
 |Research Area|Application Field|
-|-|-|
+|:-:|-|
 |Anomaly Detection|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 & 금융산업 등|
 |Open-Set Recognition|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 등|
 |Semantic Segmentation|제조산업 & 자율주행 & 의료산업 등|
