@@ -67,15 +67,6 @@
 |2021|머신러닝|백화점 데이터 기반 고객 성별 예측||
 |2020|머신러닝|L- point 고객 구매 데이터 분석을 통한 성별 및 연령대 별 맞춤 프로모션 기획||
 
-<!-- 
 
-<br>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sy00n)
-
-<br
-[![Seoyoon's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sy00n&theme=rogue)](https://github.com/JIYUNHYEOK/github-readme-activity-graph)
-
-<br> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer&text=THANK%20YOU&fontSize=60&animation=fadeIn)
