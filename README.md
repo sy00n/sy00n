@@ -52,7 +52,7 @@
 ### 🏆 Competition & Project
 |연도|분류|프로젝트|결과|
 |-|-|-|-|
-|2023|Sensor|LG 에너지솔루션 Anomaly Detection 및 Domain Adamption||
+|2023|Sensor|LG 에너지솔루션 Anomaly Detection 및 Domain Adaptation||
 |2022|비디오|DREAM: Debiased Representation based Evidential open set Action recognition with Multi-modality|<a href="https://github.com/sy00n/DREAMCAP" target="_blank">링크</a>|
 |2022|이미지 생성|퍼스널컬러 분류 및 Makeup style transfer||
 |2022|추천시스템|Auxiliary Information를 활용한 ViT(Vision Transformer)기반 추천시스템|<a href="https://github.com/rnjsdb72/ViT-with-ONCF-Framework" target="_blank">링크</a>|
