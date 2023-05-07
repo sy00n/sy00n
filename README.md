@@ -7,11 +7,11 @@
 [![Seoyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy00n&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📞 Contact
-[![Mail](https://img.shields.io/badge/tjdbs70002@gmail.com-dd2a7b?style=flat-square&logo=Gmail&logoColor=white)](tjdbs70002@gmail.com)
-[![Mail](https://img.shields.io/badge/tjdbs70002@yonsei.ac.kr-e10915?style=flat-square&logo=Gmail&logoColor=white)](tjdbs70002@yonsei.ac.kr)
-[![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%84%9C%EC%9C%A4-%EC%9E%A5-041a49242/)
-[![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://www.tistory.com/member/blog)
-<a href="https://www.instagram.com/s.y00n_8/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> 
+- [![Mail](https://img.shields.io/badge/tjdbs70002@gmail.com-dd2a7b?style=flat-square&logo=Gmail&logoColor=white)](tjdbs70002@gmail.com)
+  [![Mail](https://img.shields.io/badge/tjdbs70002@yonsei.ac.kr-e10915?style=flat-square&logo=Gmail&logoColor=white)](tjdbs70002@yonsei.ac.kr)
+- [![LinkedIn](https://img.shields.io/badge/Linked_In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%84%9C%EC%9C%A4-%EC%9E%A5-041a49242/)
+ [![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://www.tistory.com/member/blog)
+ <a href="https://www.instagram.com/s.y00n_8/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white"/></a> 
 
 ### 🛠 Tech Stack
 - <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=Python&logoColor=white"/> 
