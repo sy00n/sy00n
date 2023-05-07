@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
