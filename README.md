@@ -42,9 +42,9 @@
 |기간|소속|전공|학위|비고|
 |-|-|-|-|-|
 |2023.03~|연세대학교|산업공학과 지식융합인공지능연구실|석사|재학|
-|2022.06~|연세대학교|산업공학과 지식융합인공지능연구실|인턴|졸업|
+|2022.06~|연세대학교|산업공학과 지식융합인공지능연구실|인턴|완료|
 |2021|SKT|2021 SKT AI 커리큘럼|교육|완료|
-|2021.12~|국민대학교|컴퓨터공학과 인공지능연구실|학부연구생|졸업|
+|2021.12~|국민대학교|컴퓨터공학과 인공지능연구실|학부연구생|완료|
 |2021.03~|국민대학교|데이터사이언스융합전공|제2전공|졸업|   
 |2020.03~|국민대학교|AI빅데이터융합경영학과|제1전공|졸업|
 |2019.03~|국민대학교|임산생명공학과|-|전과| 
@@ -55,10 +55,10 @@
 |:-:|-|
 |Anomaly Detection|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 & 금융산업 등|
 |Open-Set Recognition|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 등|
-|Semantic Segmentation|제조산업 & 자율주행 & 의료산업 등|
-|Object Detection|제조산업 & 자율주행 & 보안산업 & 의료산업 등|
-|Self-Supervised Learning|Difficult to labeling situation, etc|
-|Zero-Shot & Few-Shot Task|Difficult to labeling situation, etc|
+|Semantic Segmentation|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 등|
+|Object Detection|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 등|
+|Self-Supervised Learning|Situation that difficult to labeling, etc|
+|Zero-Shot & Few-Shot Task|Situation that difficult to labeling, etc|
 |Computer Vision with Deep Learning|All over our lives|
 
 
