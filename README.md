@@ -65,6 +65,7 @@
 ### 🏆 Competition & Project
 |연도|분류|프로젝트|결과|
 |-|:-:|-|-|
+|2023|센서데이터|제조 공정 데이터 Oversampling & Imputation을 통한 response 예측 ||
 |2023|센서데이터|LG 에너지솔루션 Anomaly Detection 및 Domain Adaptation||
 |2022|비디오|DREAM: Debiased Representation based Evidential open set Action recognition with Multi-modality|<a href="https://github.com/sy00n/DREAMCAP" target="_blank">링크</a>|
 |2022|이미지 생성|퍼스널컬러 분류 및 Makeup style transfer||
