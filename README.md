@@ -57,8 +57,8 @@
 |Open-Set Recognition|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 등|
 |Semantic Segmentation|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 등|
 |Object Detection|제조산업 & 자율주행 & 비전검사 & 보안산업 & 의료산업 등|
-|Self-Supervised Learning|Situation that difficult to labeling, etc|
-|Zero-Shot & Few-Shot Task|Situation that difficult to labeling, etc|
+|Self-Supervised Learning|Situation with labeling issues, etc|
+|Zero-Shot & Few-Shot Task|Situation with labeling issues, etc|
 |Computer Vision with Deep Learning|All over our lives|
 
 
