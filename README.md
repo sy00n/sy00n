@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=%20SeoYoon%20's%20GitHub&fontSize=60&animation=fadeIn)
 
- 
-<h2> Hello👋  This is SeoYoon Jang. </h2>
-
 
 [![Seoyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy00n&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
