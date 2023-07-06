@@ -47,7 +47,7 @@
   
 
 ### 📝 Education
-|기간|소속|전공|학위|비고|
+|Period	|Institution|Major|Degree|Remarks|
 |-|-|-|-|-|
 |2022.06~|Yonsei Univ.|Department of Industrial Engineering, Knowledge Fusion Artificial Intelligence Lab|Master's|Enrolled|
 |2021|SKT|2021 SKT AI Curriculum|Eucation|Completed|
