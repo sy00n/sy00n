@@ -2,9 +2,6 @@
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=sy00n&theme=tokyonight&show_icons=true" width="39%" />
-</a>
-<a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sy00n&exclude_repo=sy00n.github.io&layout=compact&theme=tokyonight" />
 </a> 
 
