@@ -57,7 +57,16 @@
 |2019.03~|Kookmin Univ.|Forest & Bio technology|-|Major change| 
   
 
-
+### 🖥️ Research Area
+|Research Area|
+|:-:|
+|Computer Vision with Deep Learning|
+|Anomaly Detection|
+|Open-Set Recognition|
+|Semantic Segmentation|
+|Object Detection|
+|Self-Supervised Learning|
+|Zero-Shot & Few-Shot Task|
 
 ### 🏆 Competition & Project
 |Year|Category|Project|Result
@@ -82,15 +91,6 @@
 
 
 
-### 🖥️ Research Area
-|Research Area|
-|:-:|
-|Computer Vision with Deep Learning|
-|Anomaly Detection|
-|Open-Set Recognition|
-|Semantic Segmentation|
-|Object Detection|
-|Self-Supervised Learning|
-|Zero-Shot & Few-Shot Task|
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer&text=THANK%20YOU&fontSize=60&animation=fadeIn)
