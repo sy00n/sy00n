@@ -5,7 +5,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sy00n&exclude_repo=sy00n.github.io&layout=compact&theme=tokyonight" />
 </a> 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B&row=1&column=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=sy00n&rank=-C,-B&row=1&column=8&theme=onedark)
+
+
 ### 📞 Contact
 - [![Mail](https://img.shields.io/badge/tjdbs70002@gmail.com-dd2a7b?style=flat-square&logo=Gmail&logoColor=white)](tjdbs70002@gmail.com)
   [![Mail](https://img.shields.io/badge/tjdbs70002@yonsei.ac.kr-e10915?style=flat-square&logo=Gmail&logoColor=white)](tjdbs70002@yonsei.ac.kr)
