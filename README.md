@@ -74,9 +74,9 @@
 |2023|Image|CVPR workshop VPLOW Object Discovery challenge|2nd place|
 |2023|Sensor|Prediction of response through Oversampling & Imputation in Manufacturing Process Data ||
 |2023|Sensor|Self-Supervised Learning for Anomaly Detection (LG Energy Solution)||
-|2022|Video|DREAM: Debiased Representation based Evidential Open Set Action Recognition with Multi-modality|<a href="https://github.com/sy00n/DREAMCAP" target="_blank">링크</a>|
+|2022|Video|DREAM: Debiased Representation based Evidential Open Set Action Recognition with Multi-modality|<a href="https://github.com/sy00n/DREAMCAP" target="_blank">link</a>|
 |2022|Image Generation|Personal Color Classification and Makeup Style Transfer||
-|2022|Recommendation System|ViT(Vision Transformer)-based Recommendation System utilizing Auxiliary Information|<a href="https://github.com/rnjsdb72/ViT-with-ONCF-Framework" target="_blank">링크</a>|
+|2022|Recommendation System|ViT(Vision Transformer)-based Recommendation System utilizing Auxiliary Information|<a href="https://github.com/rnjsdb72/ViT-with-ONCF-Framework" target="_blank">link</a>|
 |2022|Distributed Computing|Implementation of removing duplicate edges and loops from the hyperlink network graph dataset of Wikipedia using MapReduce||
 |2022|Multi-modal|Planning and Development of Counseling Support Service through Emotion Analysis (AI Spark Challenge)|Advanced to the Final Round|
 |2021|Natural Language Processing|News Topic Classification AI Competition (Dacon)|9th place|
