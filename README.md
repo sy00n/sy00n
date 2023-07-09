@@ -69,24 +69,24 @@
 |Zero-Shot & Few-Shot Task|
 
 ### 🏆 Competition & Project
-|Year|Category|Project|Result
-|-|:-:|-|-|
-|2023|Image|CVPR workshop VPLOW Object Discovery challenge|2nd place|
-|2023|Sensor|Prediction of response through Oversampling & Imputation in Manufacturing Process Data ||
-|2023|Sensor|Self-Supervised Learning for Anomaly Detection (LG Energy Solution)||
-|2022|Video|DREAM: Debiased Representation based Evidential Open Set Action Recognition with Multi-modality|<a href="https://github.com/sy00n/DREAMCAP" target="_blank">link</a>|
-|2022|Image Generation|Personal Color Classification and Makeup Style Transfer||
-|2022|Recommendation System|ViT(Vision Transformer)-based Recommendation System utilizing Auxiliary Information|<a href="https://github.com/rnjsdb72/ViT-with-ONCF-Framework" target="_blank">link</a>|
-|2022|Distributed Computing|Implementation of removing duplicate edges and loops from the hyperlink network graph dataset of Wikipedia using MapReduce||
-|2022|Multi-modal|Planning and Development of Counseling Support Service through Emotion Analysis (AI Spark Challenge)|Advanced to the Final Round|
-|2021|NLP|News Topic Classification AI Competition (Dacon)|9th place|
-|2021|Time Series|Future League ECO Jeju Division, Predicting Food Waste Amount and Deriving Reduction Strategies (Bigcontest)||
-|2021|NLP|Analysis of Customer Reviews in Musinsa Shopping Mall||
-|2021|Spatial Data Analysis (QGIS))|If Seoul's Starbucks stores need to be reduced by 20% due to prolonged COVID-19, which areas and why?||
-|2021|Spatial Data Analysis (QGIS)|	Mapping and Characteristic Analysis of Restaurants that Survived for 10 Years in the Sookmyung Women's University Commercial Area||
-|2021|Speech|Prediction of Depression through Voice Emotion Analysis||
-|2021|Machine Learning|Prediction of Customer Gender based on Department Store||
-|2020|Machine Learning|Customized promotion planning based on gender and age group through analysis of L-point customer purchase data||
+|Year|Category|Host|Project|Result|
+|-|:-:|:-:|-|-|
+|2023|Image|CVPR|workshop VPLOW Object Discovery challenge|2nd place|
+|2023|Sensor|Y.U|Prediction of response through Oversampling & Imputation in Manufacturing Process Data ||
+|2023|Sensor|LG Energy Solution|Self-Supervised Learning for Anomaly Detection||
+|2022|Video|KMU|DREAM: Debiased Representation based Evidential Open Set Action Recognition with Multi-modality|<a href="https://github.com/sy00n/DREAMCAP" target="_blank">link</a>|
+|2022|Image Generation|D&A|Personal Color Classification and Makeup Style Transfer||
+|2022|Recommendation System|KMU|ViT(Vision Transformer)-based Recommendation System utilizing Auxiliary Information|<a href="https://github.com/rnjsdb72/ViT-with-ONCF-Framework" target="_blank">link</a>|
+|2022|Distributed Computing|KMU|Implementation of removing duplicate edges and loops from the hyperlink network graph dataset of Wikipedia using MapReduce||
+|2022|Multi-modal|AI Spark Challenge|Planning and Development of Counseling Support Service through Emotion Analysis (AI Spark Challenge)|Advanced to the Final Round|
+|2021|NLP|DACON|News Topic Classification AI Competition|9th place|
+|2021|Time Series|Big Contest|Future League ECO Jeju Division, Predicting Food Waste Amount and Deriving Reduction Strategies||
+|2021|NLP|KMU|Analysis of Customer Reviews in Musinsa Shopping Mall||
+|2021|Spatial Data Analysis (QGIS))|KMU|If Seoul's Starbucks stores need to be reduced by 20% due to prolonged COVID-19, which areas and why?||
+|2021|Spatial Data Analysis (QGIS)|KMU|Mapping and Characteristic Analysis of Restaurants that Survived for 10 Years in the Sookmyung Women's University Commercial Area||
+|2021|Speech|KMU|Prediction of Depression through Voice Emotion Analysis||
+|2021|Machine Learning|D&A|Prediction of Customer Gender based on Department Store||
+|2020|Machine Learning|KMU|Customized promotion planning based on gender and age group through analysis of L-point customer purchase data||
 
 
 
