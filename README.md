@@ -71,7 +71,7 @@
 ### 🏆 Competition & Project
 |Year|Category|Host|Project|Result|
 |-|:-:|:-:|-|-|
-|2023|Image|CVPR|workshop VPLOW Object Discovery challenge|2nd place|
+|2023|Image|CVPR|Workshop VPLOW Object Discovery challenge|2nd place|
 |2023|Sensor|Y.U|Prediction of response through Oversampling & Imputation in Manufacturing Process Data ||
 |2023|Sensor|LG Energy Solution|Self-Supervised Learning for Anomaly Detection||
 |2022|Video|KMU|DREAM: Debiased Representation based Evidential Open Set Action Recognition with Multi-modality|<a href="https://github.com/sy00n/DREAMCAP" target="_blank">link</a>|
