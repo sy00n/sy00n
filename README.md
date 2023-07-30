@@ -63,17 +63,17 @@
 |Computer Vision with Deep Learning|
 |Anomaly Detection|
 |Open-Set Recognition|
-|Semantic Segmentation|
+|Semantic Segmentation with less supervision|
 |Object Detection|
 |Self-Supervised Learning|
-|Zero-Shot & Few-Shot Task|
+|Few-Shot Learning|
+|Incremental/Continual Learning|
 
 ### 🏆 Competition & Project
 |Year|Category|Host|Project|Result|
 |-|:-:|:-:|-|-|
 |2023|Image|CVPR|Workshop VPLOW Object Discovery challenge|2nd place|
-|2023|Sensor|Y.U|Prediction of response through Oversampling & Imputation in Manufacturing Process Data ||
-|2023|Sensor|LG Energy Solution|Self-Supervised Learning for Anomaly Detection||
+|2023|Sensor|LG Energy Solution|Self-Supervised Learning for sensor-based anomaly detection||
 |2022|Video|KMU|DREAM: Debiased Representation based Evidential Open Set Action Recognition with Multi-modality|<a href="https://github.com/sy00n/DREAMCAP" target="_blank">link</a>|
 |2022|Image Generation|D&A|Personal Color Classification and Makeup Style Transfer||
 |2022|Recommendation System|KMU|ViT(Vision Transformer)-based Recommendation System utilizing Auxiliary Information|<a href="https://github.com/rnjsdb72/ViT-with-ONCF-Framework" target="_blank">link</a>|
