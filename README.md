@@ -84,7 +84,7 @@
 |2021|NLP|DACON|News Topic Classification AI Competition|9th place|
 |2021|Time Series|Big Contest|Future League ECO Jeju Division, Predicting Food Waste Amount and Deriving Reduction Strategies||
 |2021|NLP|KMU|Analysis of Customer Reviews in Musinsa Shopping Mall||
-|2021|Spatial Data Analysis (QGIS))|KMU|If Seoul's Starbucks stores need to be reduced by 20% due to prolonged COVID-19, which areas and why?||
+|2021|Spatial Data Analysis (QGIS)|KMU|If Seoul's Starbucks stores need to be reduced by 20% due to prolonged COVID-19, which areas and why?||
 |2021|Spatial Data Analysis (QGIS)|KMU|Mapping and Characteristic Analysis of Restaurants that Survived for 10 Years in the Sookmyung Women's University Commercial Area||
 |2021|Speech|KMU|Prediction of Depression through Voice Emotion Analysis||
 |2021|Machine Learning|D&A|Prediction of Customer Gender based on Department Store||
