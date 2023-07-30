@@ -65,11 +65,11 @@
 |Computer Vision with Deep Learning|
 |Anomaly Detection|
 |Open-Set Recognition|
-|Semantic Segmentation with less supervision|
-|Object Detection|
-|Self-Supervised Learning|
 |Few-Shot Learning|
 |Incremental/Continual Learning|
+|Self-Supervised Learning|
+|Semantic Segmentation with less supervision|
+|Object Detection|
 
 ### 🏆 Competition & Project
 |Year|Category|Host|Project|Result|
