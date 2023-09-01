@@ -82,7 +82,7 @@
 |2022|Distributed Computing|KMU|Implementation of removing duplicate edges and loops from the hyperlink network graph dataset of Wikipedia using MapReduce||
 |2022|Multi-modal|AI Spark Challenge|Planning and Development of Counseling Support Service through Emotion Analysis |Advanced to the Final Round|
 |2021|NLP|DACON|News Topic Classification AI Competition|top 4%|
-|2021|Time Series|Big Contest|Future League ECO Jeju Division, Predicting Food Waste Amount and Deriving Reduction Strategies||
+|2021|Time Series|Big Contest|ECO Jeju Division, Predicting Food Waste Amount and Deriving Reduction Strategies||
 |2021|NLP|KMU|Analysis of Customer Reviews in Musinsa Shopping Mall||
 |2021|Spatial Data Analysis (QGIS)|KMU|If Seoul's Starbucks stores need to be reduced by 20% due to prolonged COVID-19, which areas and why?||
 |2021|Spatial Data Analysis (QGIS)|KMU|Mapping and Characteristic Analysis of Restaurants that Survived for 10 Years in the Sungshin Women's University Commercial Area||
