@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=%20SeoYoon%20's%20GitHub&fontSize=60&animation=fadeIn)
 
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sy00n&exclude_repo=sy00n.github.io&layout=compact&theme=tokyonight" />
-</a> 
 
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sy00n&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/sy00n/sy00n)
 ![trophy](https://github-profile-trophy.vercel.app/?username=sy00n&rank=-C,-B&row=1&column=8&theme=onedark)
 
 
