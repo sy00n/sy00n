@@ -10,7 +10,7 @@
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=sy00n&theme=dracula' />
 </p>      
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sy00n&rank=-C,-B&row=1&column=8&theme=onedark)   
+![trophy](https://github-profile-trophy.vercel.app/?username=sy00n&rank=-C,-B&theme=onedark)   
    
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sy00n&langs_count=10&layout=compact&theme=dracula)](https://github.com/sy00n/sy00n)
 
