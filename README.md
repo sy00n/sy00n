@@ -59,7 +59,6 @@
 |Period	|Institution|Major|Degree|Remarks|
 |-|-|-|-|-|
 |2022.06~|Yonsei Univ.|Department of Industrial Engineering, Knowledge Fusion Artificial Intelligence Lab|Master's|Enrolled|
-|2021|SKT|2021 SKT AI Curriculum|Education|Completed|
 |2021.12~|Kookmin Univ.|Department of Computer Science, Artificial Intelligence Lab|Undergraduate Researcher|Completed|
 |2021.03~|Kookmin Univ.|Data Science|Minor|Graduated|   
 |2020.03~|Kookmin Univ.|AI Bigdata & management|Major|Graduated|
