@@ -77,7 +77,7 @@
 ### 📝 Paper
 |Year|Title|State|Author Role|link|Award|
 |-|:-:|:-:|:-:|:-:|-|
-|2024|AnoPLe|Under review|1nd author|<a href="https://arxiv.org/abs/2408.13516" target="_blank">link</a>|제20회 대한산업공학회 석사논문경진대회 우수상|
+|2024|AnoPLe|Under review|1st author|<a href="https://arxiv.org/abs/2408.13516" target="_blank">link</a>|제20회 대한산업공학회 석사논문경진대회 우수상|
 |2023|UniFormaly|Under review|3nd author|<a href="https://arxiv.org/abs/2307.12540" target="_blank">link</a>|제19회 대한산업공학회 석사논문경진대회 최우수상|
 
 
